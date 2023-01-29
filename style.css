@@ -1,0 +1,26 @@
+.bg-y {
+  background-color: #3c2a21;
+}
+ul li {
+  font-size: 20px;
+}
+.carousel-item {
+  height: 650px;
+}
+.carousel-inner img {
+  height: 100%;
+}
+.carousel-item h5 p {
+  text-align: left;
+}
+.hel {
+  background-color: #3c2a21;
+  color: white;
+}
+span {
+  color: #3c2a21;
+}
+.man {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
